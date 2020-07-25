@@ -1,6 +1,6 @@
 # Hasura Deployment to ECS with Aurora Serverless
 
-Cloudformation Template for deploying Hasura GraphQL Engine into auto scalable ECS cluster along with Aurora Serverless. [Read our blog to learn more.](https://www.antstack.io/blog//blog/how-to-deploy-hasura-grapql-to-aws-with-ecs-and-aurora-serverless/)
+Cloudformation Template for deploying Hasura GraphQL Engine into auto scalable ECS cluster along with Aurora Serverless. [Read our blog to learn more.](https://www.antstack.io/blog/how-to-deploy-hasura-grapql-to-aws-with-ecs-and-aurora-serverless/)
 
 ## Deploy Hasura with default DNS of Load Balancer
 
