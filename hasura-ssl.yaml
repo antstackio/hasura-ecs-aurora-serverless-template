@@ -345,11 +345,7 @@ Resources:
           SourceSecurityGroupId: !Ref 'EC2SecurityGroup'
           FromPort: 5432
           ToPort: 5432
-        - # My Home WI FI
-          IpProtocol: 'tcp'
-          CidrIp: '73.109.63.52/32'
-          FromPort: 5432
-          ToPort: 5432
+
       Tags:
         - Key: 'Name'
           Value: !Sub '${APIName}-RDS-SecurityGroup'
